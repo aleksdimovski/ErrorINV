@@ -129,4 +129,3 @@ $ ./Main.native -single -domain polyhedra tests/tcas1.c > tcas1-single.out
 $ ./Main.native -full -domain polyhedra tests/tcas1.c > tcas1-full.out
 
 
-
